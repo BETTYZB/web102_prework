@@ -4,7 +4,7 @@ Submitted by: **Bethel Zegeye**
 
 **Sea Monster Crowfunding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **10** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
@@ -38,7 +38,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [Bethel Zegeye]
+    Copyright [2025] [Bethel Zegeye]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
